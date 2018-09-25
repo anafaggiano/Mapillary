@@ -22,7 +22,7 @@ The following documentation was produced using a Windows x64 machine with an Int
 
 1.2 Go to the Gopro website to download the latest version of the software.
 
-![Cap1](images/Cap1_groprosite.JPG)
+![Cap1](images/Cap1_goprosite.JPG)
 
 In this document, the version with which the image processing will be executed will be GoPro Fusion Studio 1.3. Verify that your computer satisfies the requirements for the GoPro Fusion Studio Software 1.3. Those requirements can be found on the official GoPro website provided above. Once on the page of the download provided above, scroll down until the Features section and click System Requirements next to it.
 
